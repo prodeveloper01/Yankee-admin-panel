@@ -1,0 +1,1152 @@
+[12-Sep-2022 04:22:49 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:22:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:30 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:30 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:30 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:30 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:30 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:31 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:31 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:32 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:34 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:34 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:34 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:34 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:34 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:37 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:37 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:37 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:37 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:37 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:45 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:23:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:24:04 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:24:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:24:53 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:24:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:11 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:31 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:38 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:53 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:53 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:53 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:53 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:25:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:26:38 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:26:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:31:46 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:31:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:35:57 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:35:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:36:58 UTC] PHP Warning:  require(/home/amone/public_html/efood/vendor/autoload.php): Failed to open stream: No such file or directory in /home/amone/public_html/efood/index.php on line 24
+[12-Sep-2022 04:36:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/amone/public_html/efood/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/amone/public_html/efood/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/amone/public_html/efood/index.php on line 24
+[25-Mar-2023 19:37:15 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:38:10 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:38:10 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:38:10 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:38:10 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:38:22 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:38:22 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:38:22 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:38:22 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:38:57 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:39:11 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:39:11 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:39:11 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:39:11 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:39:17 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:39:17 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:39:17 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:39:18 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:39:18 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:39:18 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:39:36 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:39:36 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:39:36 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:39:51 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:39:51 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:39:51 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:40:09 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:41:34 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Mar-2023 19:46:11 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[27-Mar-2023 17:46:35 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[27-Mar-2023 17:46:38 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[27-Mar-2023 17:46:39 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[27-Mar-2023 17:46:40 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[27-Mar-2023 17:46:40 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[27-Mar-2023 17:46:40 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[27-Mar-2023 17:46:40 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[27-Mar-2023 17:47:18 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[27-Mar-2023 17:47:20 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/admin/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/admin/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/admin/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[15-Apr-2023 12:49:10 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/app/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[15-Apr-2023 12:49:24 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/app/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[15-Apr-2023 12:49:24 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/app/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[15-Apr-2023 12:50:03 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/app/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[15-Apr-2023 01:20:19 US/Mountain] PHP Deprecated:  Required parameter $path follows optional parameter $handlers in /home/arslanhot461/public_html/app/vendor/paypal/rest-api-sdk-php/lib/PayPal/Transport/PayPalRestCall.php on line 53
+[15-Apr-2023 01:20:19 US/Mountain] PHP Deprecated:  Required parameter $method follows optional parameter $handlers in /home/arslanhot461/public_html/app/vendor/paypal/rest-api-sdk-php/lib/PayPal/Transport/PayPalRestCall.php on line 53
+[15-Apr-2023 01:20:19 US/Mountain] PHP Deprecated:  Required parameter $prefix follows optional parameter $configs in /home/arslanhot461/public_html/app/vendor/paypal/rest-api-sdk-php/lib/PayPal/Core/PayPalHttpConfig.php on line 286
+[15-Apr-2023 01:20:19 US/Mountain] PHP Deprecated:  Required parameter $clientId follows optional parameter $config in /home/arslanhot461/public_html/app/vendor/paypal/rest-api-sdk-php/lib/PayPal/Cache/AuthorizationCache.php on line 56
+[15-Apr-2023 01:20:19 US/Mountain] PHP Deprecated:  Required parameter $accessToken follows optional parameter $config in /home/arslanhot461/public_html/app/vendor/paypal/rest-api-sdk-php/lib/PayPal/Cache/AuthorizationCache.php on line 56
+[15-Apr-2023 01:20:19 US/Mountain] PHP Deprecated:  Required parameter $tokenCreateTime follows optional parameter $config in /home/arslanhot461/public_html/app/vendor/paypal/rest-api-sdk-php/lib/PayPal/Cache/AuthorizationCache.php on line 56
+[15-Apr-2023 01:20:19 US/Mountain] PHP Deprecated:  Required parameter $tokenExpiresIn follows optional parameter $config in /home/arslanhot461/public_html/app/vendor/paypal/rest-api-sdk-php/lib/PayPal/Cache/AuthorizationCache.php on line 56
+[19-Apr-2023 16:06:16 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/app/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[19-Apr-2023 17:22:48 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/app/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[20-Apr-2023 15:05:01 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/app/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[09-May-2023 15:51:34 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/app/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[09-May-2023 15:52:23 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/app/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[11-May-2023 14:55:12 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/app/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[11-May-2023 14:55:15 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/app/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[11-May-2023 14:55:16 Asia/Dhaka] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(571): include('/home/arslanhot...')
+#2 /home/arslanhot461/public_html/app/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/arslanhot461/public_html/app/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/arslanhot461/public_html/app/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
